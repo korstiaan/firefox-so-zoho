@@ -12,7 +12,7 @@ Currently it does the following:
 
 ## Download
 
-The prebuild package can be downloaded from http://www.korstiaan.com/so-zoho/so-zoho.xfi
+The prebuild package can be downloaded from http://www.korstiaan.com/so-zoho/so-zoho.xpi
 
 ## Development
 
