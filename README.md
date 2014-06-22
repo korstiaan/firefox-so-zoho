@@ -22,7 +22,9 @@ Chrome extension can be found at https://github.com/korstiaan/chrome-so-zoho
 
 Main development takes place on the shared repo https://github.com/korstiaan/so-zoho
 
-[bower](http://bower.io/) is used to install this dependency.
+[bower](http://bower.io/) is used to install this and its dependencies:
+
+    $ bower install
 
 ## License
 
