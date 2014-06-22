@@ -1,6 +1,6 @@
 # SO ZOHO
 
-A firefox addon which makes your ZOHO experience more pleasent.
+A firefox addon which makes your ZOHO experience more pleasant.
 
 ## Description
 
