@@ -1,6 +1,6 @@
 # SO ZOHO
 
-A firefox addon which makes your ZOHO experience more pleasant.
+A Firefox Add-on which makes your ZOHO experience more pleasant.
 
 Click [here](https://github.com/korstiaan/chrome-so-zoho) for the Chrome extension.
 
