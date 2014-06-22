@@ -1,5 +1,5 @@
 {
-  "name": "so-zoho",
+  "name": "firefox-so-zoho",
   "version": "0.0.1",
   "dependencies": {
     "so-zoho": "ffbb1fed81"
