@@ -4,7 +4,7 @@
     return $('body').keyup(function(e) {
       var comment;
       comment = $('.mentions-input-box textarea');
-      if (e.key !== 'Esc') {
+      if (e.keyCode !== 27) {
         return;
       }
       if (comment.lenght === 0) {

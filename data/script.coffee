@@ -3,7 +3,7 @@ do ($ = jQuery) ->
     comment = $('.mentions-input-box textarea')
 
     # Leave event alone when key is not ESC
-    unless e.key == 'Esc'
+    unless e.keyCode == 27
       return
 
     # No comment texarea -> do nothing
