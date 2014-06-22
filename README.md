@@ -2,6 +2,8 @@
 
 A firefox addon which makes your ZOHO experience more pleasant.
 
+Click [here](https://github.com/korstiaan/chrome-so-zoho) for the Chrome extension.
+
 ## Description
 
 Currently it does the following:
@@ -14,11 +16,13 @@ Currently it does the following:
 
 The prebuild package can be downloaded from http://www.korstiaan.com/so-zoho/so-zoho.xpi
 
+Chrome extension can be found at https://github.com/korstiaan/chrome-so-zoho
+
 ## Development
 
-Coffeescript is used for Javascript compilation, and CSS is compiled from SASS.
+Main development takes place on the shared repo https://github.com/korstiaan/so-zoho
 
-Dependencies (currently only jQuery) are managed with [bower](http://bower.io/).
+[bower](http://bower.io/) is used to install this dependency.
 
 ## License
 
